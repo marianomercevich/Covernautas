@@ -1,0 +1,21 @@
+.btn {
+   background-color: rgb(158, 122, 73);
+   color: white;
+}
+
+#borderNoticia{
+    border: 2px;
+   border-color: chocolate;
+}
+body {
+    color: rgb(158, 122, 73);
+}
+header{
+    color: rgb(158, 122, 73);
+}
+main{
+    color: rgb(158, 122, 73);
+}
+footer{
+    color: rgb(158, 122, 73);
+}
