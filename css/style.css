@@ -2,15 +2,15 @@
    background-color: rgb(158, 122, 73);
    color: white;
 }
-
-#borderNoticia{
-    border: 2px;
-   border-color: chocolate;
-}
 body {
+    background-color: black;
     color: rgb(158, 122, 73);
 }
+.card{
+    background-color: black;
+}
 header{
+    background-color: black;
     color: rgb(158, 122, 73);
 }
 main{
@@ -19,3 +19,20 @@ main{
 footer{
     color: rgb(158, 122, 73);
 }
+.border{
+    border-color: rgb(158, 122, 73) !important;
+}
+a{
+    color: rgb(158, 122, 73) !important;
+
+}
+input{ 
+    background-color: black !important;
+    color: rgb(158, 122, 73) !important;
+}
+textarea{ 
+    background-color: black !important;
+    color: rgb(158, 122, 73) !important;
+}
+
+
