@@ -18,42 +18,46 @@
 
 <body>
   <!--HEADER -->
-  <header>
+  <header class="navegacion">
     <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-lg navbar-dark  p-2 fw-bold ">
-      <div class="container-fluid">
-        <!-- LOGO -->
-        <img src="../assets/imagenes/Component 5.png" width=100 height=100" alt="Logo Covernautas"
-          class=" animate__animated animate__rotateIn ">
-        <!-- NAVEGACION -->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse d-flex justify-content-end"" id="navbarNav">
-          <ul class="menu navbar-nav " data-animation="center">
-            <li class="nav-item">
-              <a class="nav-link" href="../index.html">Home</a>
+    <nav class="navbar navbar-expand-lg  navbar-dark  p-2 fw-bold ">
+      <!-- NAVBAR IZQUIERDO-->
+      <div class="collapse navbar-collapse justify-content-evenly ">
+        <div class="d-flex  justify-content-center">
+          <ul ul class="menu row navbar-nav" data-animation="center">
+            <li class="nav-item col align-self-start ">
+              <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item col align-self-center">
               <a class="nav-link" href="noticias.html">Noticias</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item col align-self-end">
               <a class="nav-link" href="videos.html">Videos</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="musica.html">Música</a>
+          </ul>
+        </div>
+        <!-- LOGO -->
+        <div class="d-flex justify-content-center ">
+          <img src="../assets/imagenes/Component 5.png" width=100 height=100" alt="Logo Covernautas"
+            class="animate__animated animate__backInLeft">
+        </div>
+        <!-- NAVBAR DERECHO -->
+        <div class="d-flex justify-content-start">
+          <ul class="menu row navbar-nav"data-animation="center">
+            <li class="nav-item col align-self-end">
+              <a class="nav-link " href="musica.html">Música</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="quienes_somos.html">Quienes Somos</a>
+            <li class="nav-item col align-self-center">
+              <a class="nav-link " href="quienes_somos.html">Nosotros</a> 
             </li>
-            <li class="nav-item">
+            <li class="nav-item col align-self-end">
               <a class="nav-link" href="contactenos.html">Contactenos</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
+  </header>
     <!-- MAIN  -->
     <main> <br>
 
