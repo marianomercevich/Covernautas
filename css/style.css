@@ -40,9 +40,11 @@ a {
 }
 
 video {
-    max-width: 100%; 
-    height: auto;
+    width: auto;
+    line-height: inherit;
+   
 }
+
 input {
     background-color: black !important;
     color: rgb(158, 122, 73) !important;
