@@ -39,10 +39,45 @@ a {
 
 }
 
-video {
+
+
+@media (min-width: 576px) {
+.video{
     width: auto;
-    line-height: inherit;
-   
+    height:auto;
+}
+}
+
+
+@media (min-width: 768px) { 
+    .video{
+        width: auto;
+        height:auto;
+    }
+}
+
+
+@media (min-width: 992px) { 
+    .video{
+        width: auto;
+        height:auto;
+} }
+
+@media (min-width: 1200px) {
+    .video{
+
+        width: auto;
+        height:auto;
+    }
+ }
+
+
+@media (min-width: 1400px) { 
+    .video{
+
+        width: 560px;
+        height: 315px;
+    }
 }
 
 input {
