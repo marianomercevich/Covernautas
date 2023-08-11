@@ -3,8 +3,9 @@ COVERNAUTAS-WEBSITE-PROYECT.
 en elavoracion.
 dieño previo https://www.behance.net/gallery/159414151/COVERNAUTAS-WEBSITE-PROYECT.
 
-presentacoin de la banda
-falta responsive y coorreccion de alguno errores de diseño
+presentacion de la banda
+falta repara responsive de seccion musica y nosotros
+falta recepcion de datos del fomulario
 
 
 sitio escalable,

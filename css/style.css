@@ -40,46 +40,6 @@ a {
 }
 
 
-
-@media (min-width: 576px) {
-.video{
-    width: auto;
-    height:auto;
-}
-}
-
-
-@media (min-width: 768px) { 
-    .video{
-        width: auto;
-        height:auto;
-    }
-}
-
-
-@media (min-width: 992px) { 
-    .video{
-        width: auto;
-        height:auto;
-} }
-
-@media (min-width: 1200px) {
-    .video{
-
-        width: auto;
-        height:auto;
-    }
- }
-
-
-@media (min-width: 1400px) { 
-    .video{
-
-        width: 560px;
-        height: 315px;
-    }
-}
-
 input {
     background-color: black !important;
     color: rgb(158, 122, 73) !important;
@@ -95,6 +55,45 @@ h1 {
 }
 
 
+  
+
+/* media querys */
+@media (min-width: 576px) {
+    .video{
+        width: auto;
+        height:auto;
+        }
+    }
+    
+    @media (min-width: 768px) { 
+        .video{
+            width: auto;
+            height:auto;
+        }
+    }
+    
+    @media (min-width: 992px) { 
+        .video{
+            width: auto;
+            height:auto;
+        } 
+    }
+    
+    @media (min-width: 1200px) {
+        .video{
+    
+            width: auto;
+            height:auto;
+        }
+     }
+    
+    @media (min-width: 1400px) { 
+        .video{
+    
+            width: 560px;
+            height: 315px;
+        }
+    }
 
 /* animation social icons */
 .social-links a {
