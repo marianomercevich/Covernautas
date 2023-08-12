@@ -9,9 +9,9 @@ optimizacion del sitio
 
 falta reparar aspect ratio de todos los logos en width=95 height=100
 revisar los aspect ratios de: 
-twiter (30 x 30 (1.00) 59 x 47 (1.26)) 
-youtube (30 x 30 (1.00) 59 x 47 (1.26)) 
-mail (30 x 30 (1.00) 59 x 47 (1.26)) 
+twiter (30 x 30 (1.00) 59 x 47 (1.26)) 24*30
+youtube (30 x 30 (1.00) 59 x 47 (1.26)) 24*30
+mail (30 x 30 (1.00) 59 x 47 (1.26))  24*30
 bootcamp (30 x 30 (1.00) 64 x 54 (1.19))
 falta recepcion de datos del fomulario
 
